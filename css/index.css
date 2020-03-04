@@ -284,6 +284,7 @@ nav {
 .about-me .skills {
   width: 30%;
   padding-right: 3%;
+  text-align: center;
 }
 @media (max-width: 500px) {
   .about-me .skills {
@@ -298,12 +299,14 @@ nav {
   border-bottom: 1px solid #0a0a0a;
   width: 97%;
   color: #0a0a0a;
+  text-align: center;
 }
 .experience-container {
   display: flex;
   width: 100%;
   justify-content: space-between;
   padding: 1% 6% 4% 0%;
+  text-align: center;
 }
 @media (max-width: 750px) {
   .experience-container {
